@@ -9,12 +9,13 @@ tags:
 
 toc: ture
 toc_stcky: true
+use_math:true
 ---
 
 
 ARIMA 모형은 AR()자기회귀 모형과 MA()이동평균 모형이 결합된 모형이다
 AutoRegressive Integrated Moving Average
-
+$log_{10}x = logx$
 
 
 
