@@ -1,18 +1,21 @@
 ---
-title: Feature Selection
-excerpt: 변수가 많을 때 변수를 줄이는 것이 좋은가 모든 변수를 넣는 것이 좋은가?
+title: DQN
+excerpt: 강화학습을 해보자
 
 categories:
-  - Data Analysis
+  - Reinforcement Learning
 tags:
-  - [Featuer Selection]
+  - [Reinforcement Learning]
 
 toc: ture
 toc_stcky: true
 ---
 
-변수는 많을 수록 좋은 걸까? 
+강화학습이란 무엇인가?
+주어진 조건에서 어떤 동작을 취해야 할지 결정하는 문제들을 제어과제라 부른다. 예를 들어 레이싱 게임에서 직선주로에서 코너구간으로 넘어가는 상황(주어진 조건)에서 속도를 줄이면서 핸들의 방향을 돌리는(어떤 동작을 취하는지) 행동을 취한다던지, 주식시장이 좋거나 나쁠 때 어떤 종목을 매수하고 매도를 할 것인지 결정할 때와 같은 상황들을 말한다.
+강화학습은 이러한 제어 과제의 표현 및 해결을 위한 일반적인 틀이다.
 
+그럼 바로 시작해보자
 
 
 
